@@ -3,17 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "japstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Jap123$%&"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "jap2365"
+    },
+    "location": { "value":"West Europe"},
+    "sizeOfDiskInGB":{ "value":"20"}
   }
 }
 
