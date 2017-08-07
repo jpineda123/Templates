@@ -30,7 +30,7 @@
       "type": "string",
       "defaultValue": "West Europe",
       "allowedValues": [
-        "West US",
+        "West Europe",
         "East US 2"
       ],
       "metadata": {
